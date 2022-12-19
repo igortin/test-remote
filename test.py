@@ -1,3 +1,4 @@
 import sys
 
-print("Paradise  {}".format(sys.argv[1]))
+v = sys.argv[1]
+print("Paradise  {}".format(v))
